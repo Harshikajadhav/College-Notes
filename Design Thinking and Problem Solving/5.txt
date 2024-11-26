@@ -1,0 +1,40 @@
+Example: 
+Problem Solving: We are working professionals and we need proper food to Eat.
+
+1. Empathy stage:
+-Do we have any allergies while having the food.
+-Veg or Non Veg
+-Are you working in shifts?
+-What are your working hours?
+-Do you want ready to eat meals or cooked meals?
+-Do you get time for breakfast?
+-Do you work from home or come to work here
+-Cost factor, Healthy habits, Excercise
+-Your previous experience with food
+-Availability of Groceries
+
+1. Why are you not consuming healthy meals? <--- Huge Questions
+
+2. Why are you having takeaways? - Ordering on basis of discount, rather than having healthy meals, they buy and continuously order from outside - Ans: I am rushing from my office, I don't have much time to eat food while rushing for office.
+
+3. Why do you order food everything?
+> Cannot cook
+> No place to go
+> Less Expensive
+> Time saving
+> Always on hurry
+
+4. Why that individual don't go for grocery?
+> Not convenient
+> The working hours are not that convenient with market hrs as working in shifts.
+> Home is way too far from the market.
+
+Q What is Time Management?
+> We have to manage ourself in time; Organizing tasks in the given amount of time.
+
+
+2) Define Stage: Problem statement to be defined - 
+- How might we provide a quick and convenient solution for young professionals for eating healthy meal.
+
+Final statement: How might we provide healthy, convenient and affordable meal for young professionals.
+

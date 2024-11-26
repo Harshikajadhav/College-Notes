@@ -1,0 +1,61 @@
+What is Design Thinking?
+>Design Thinking is never about designing a product, it is based on how people feel about the product.
+
+
+Processes of Design Thinking:
+Empathy - Define - Ideate - Prototype - Test
+
+1. Empathy:
+
+
+# EXAMPLE 1 - Electric ToothBrush Example: ORAL-B
+Surveys - The company thought of creating updates with the toothbrush by adding 2 min music, reminders for children to brush, etc updates for upgrading their product but first, they decided to conduct a survey asking people about their opinions on upgrading the electric toothbrush, their needs, their requirements, etc. 
+Results: (User's requirements)
+-Easy Access : The head part of the brush should be available at any local shop.
+-Charging: Charging stand / Charging point should be both wired and wireless.
+
+
+
+# EXAMPLE 2 - Air BNB : Website for online bookings and real-time images of the hotel.
+Real problem before the website launched:
+Makemytrip.com, Goibibo.com are some examples of online hotel booking where the hotel manager can upload any fake photos of their hotel to attract customers for night stay, even many people are being fooled by many such sites, hence Air BNB took out solution for the same. They took actual photograph of individual room with different angles, and have uploaded it on their sites with any kind of virtual photos. So that the customer can pick the right hotel for them as per their own budget.
+
+
+Difference between Quantitative and Qualitative:
+	Quantitative - Website being visited by how many people
+	Qualitative  - Surveys by people
+
+To improve their services, the company also surveyed their own employees as third person and collected their opinions, views about the website.
+
+
+
+
+
+# EXAMPLE 3 - Red Dot Drive: This drive is mainly for women who are illiterate mainly in villages where they don't take much care of their food. Even if they have a full meal, the food is not that nutritious for them, they suffer, and they get tired and ill. At a certain age, women start losing iron in their bodies. So the government launched a pill which can help women to stay healthy and strong. But since some were illiterate, the plan to distribute the pill was a failure as:
+-Some would not have enough money to buy the pill
+-Might forget to take the pill
+-Not bothering much about the pill
+
+So the organization came up with the solution of Red Bindi, where the red bindi had a certain amount of iron which can be absorbed by women's bodies as they stick it on their forehead. Once the iron on the bindi is gone, the bindi turns into black colour by which they threw it out and would go for a new red bindi. In the villages, there's a rule to have a red bindi.
+
+This drive is mainly for uneducated women and was from the Government of india, and completely based on social cause.
+
+
+
+
+
+
+
+
+
+
+
+2. Define / Synthesis:
+ > Making Sense of the problem.
+ > As the second step in Design Thinking process, one will define a clear idea of exactly which problem you will solve for the user.
+ > You will then ahape this into a design statement.
+ > This stage ensures that one has fully understood the good of the design project.
+ > This also provides a decent objective to work onto.
+ 
+Why is this stage important?
+> Once you have a good idea of users, want, needs and pain points (discomfort), you're ready to turn this empathy into an actionable problem statement.

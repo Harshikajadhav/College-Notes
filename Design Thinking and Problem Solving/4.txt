@@ -1,0 +1,34 @@
+VIEW DOCUMENT IN 90% ZOOM LEVEL
+
+Empathise --------------------> Define  ----------------------->Unpack the finding
+    |				  |	 some points of define >Use empathy findings for problem statement
+Learn about the			Define			       >Develop a point of view for the user
+audience		   problem statement
+
+
+
+
+1. Empathy
+Example 1: "I don't learn by watching an online course, I learn by myself" - User 1
+The need problem: The user needs to learn from experience
+The problem is then handed over to the define team and then they arrive with conclusions for that problem.
+Then the team has to have a meeting with the user [an example to define steps of Design Thinkings]
+
+
+Example 2: Senior Citizen
+Mobile Plans: The company should increase their plans of mobile plans by 80%.
+	    : People are trying to find the cheapest plans for senior
+
+"How might we........."
+	How - Variety of different ways
+	Might - Responnses may be some possible solutions
+	We - Collective teamwork [Collaborative Effort]
+Things to keep it in mind
+	- Be specific while writing need statemen
+	- Needs to be a positive statement
+	- Avoid the words - must, should, etc
+	- Describe the attribute of product and service keeping the economic environement in mind with the help of 		industrial environment/Economical
+	- Describe and attribute of product - service, keeping the Economic environment in mind.
+
+What is Design Thinking?
+>Problem Solving, Creative way of Problem Solving
